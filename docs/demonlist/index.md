@@ -1,9 +1,9 @@
 ---
-title: 데몬리스트
+title: Demonlist
 nav_order: 2
 ---
 
-# 강윤
+# 데몬리스트
 
 The default page layout supports various navigation features:
 
