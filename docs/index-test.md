@@ -3,7 +3,7 @@ title: Markdown kitchen sink
 nav_order: 99
 ---
 
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+<button class="btn js-toggle-dark-mode">다크모드</button>
 
 <script>
 const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
