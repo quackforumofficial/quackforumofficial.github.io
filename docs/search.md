@@ -3,7 +3,7 @@ title: Search
 nav_order: 7
 ---
 
-# Search
+# 안녕
 {: .no_toc }
 
 ## Table of contents
