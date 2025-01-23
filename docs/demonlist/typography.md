@@ -1,17 +1,13 @@
 ---
-title: Typography
+title: Tidal Wave
 parent: Demonlist
 nav_order: 1
 ---
 
-# Typography
-{: .no_toc }
+# Tidal Wave
+## Verified by Zzoink
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9fsZ014qB3s?si=HCM01YaJG62eKSxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
