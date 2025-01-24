@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+<head>
+
+    <meta charset='utf-8'>
+
+    <title>Page Title</title>
+
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"/>
+
+    <script>
+        const domainEl = document.querySelector('.domain')
+        const domainListEl = document.querySelector('.domain__list')
+
+        let isActiveDomainList = false
+        domainEl.addEventListener('click', function () {
+            isActiveDomainList = !isActiveDomainList // transition
+        if(isActiveDomainList) {
+            // active domain list
+            domainListEl.classList.add('active')
+            } else {
+            // hide domain list
+            domainListEl.classList.remove('active')
+            }
+        });
+    </script>
+
+    <style>
+        .info #info__id {
+             position: relative;
+        }
+
+        #info__id button {
+            position: absolute;
+            width: 90px;
+            height: 40px;
+            top: 0;
+            bottom: 0;
+            right: 5px;
+            margin: auto 0;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<script>
+    // select 요소 참조
+    const element = document.querySelect('#mySelect');
+
+    // 값 가져오기
+    const value = element.value;
+
+    // 상태를 화면에 표시
+    const log = `선택된 값은 ${value} 입니다.`;
+    document.querySelector('.log').innerHTML = log;
+</script>
+	
+<article class="contact-me">
+    <div class="form-group" style="float:left; height: auto; width: auto; margin: 15px 25px 15px 0px; padding: 50px;">
+		<h3>등재 양식</h3>
+		<form class="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSfAzg14wOKGKv_xO1i6Kb9VXeHx0hq_3OMhFnP9iNBH_4LpGg/formResponse" method="POST" target="_blank">
+      <p>
+      <span><label for="name">전부 작성해주세요</label></span>
+			<hr />
+      <span><input class="form-control" type="text" id="name" name="entry.676078937" placeholder="GD 닉네임" required></span>
+			</p>
+			<div>
+				<div style="float: left; width: 50%;">
+						<input class="form-control" type="text" id="text" name="entry.1008342851" placeholder=" 레벨 선택 ">
+				</div>
+				<div style="float: left; width:50%;">
+						<select class="choice1" name="choice" style="height:35px; width:100%;">
+      									<option>포럼 리스트</option>
+      									<option value="1번">1번</option>
+      									<option value="2번">2번</option>
+      									<option value="3번">3번</option>
+    				</select>
+				</div>
+			</div>
+			<div>
+				<br></p>
+				<div style="float: right; width: 100%;">
+						<input class="form-control" type="text" id="percentage" name="entry.1931077774" placeholder="100%" required>
+				</div>
+			</div>
+			<br>
+		  
+    		
+    	
+    	<script>
+      		const choice = document.querySelector(".choice1");
+
+      		choice.addEventListener("change", function (e) {
+        			const text = document.querySelector("#text");
+        			text.value = `${e.target.value}`;
+    			});
+    	</script>
+			<br>
+		<hr />
+			<div>
+      <label for="device">기기 및 FPS</label
+			<br>
+			<div>
+			<div style="float: left; width: 33%;">
+				<input class="form-control" type="text" id="device" name="entry.1044707064" placeholder="pc/mobile" required>
+			</div>
+			<div style="float: left; width: 33%;">
+				<input class="form-control" type="text" id="fps" name="entry.1626120345" placeholder="120fps" required>
+			</div>
+			<div style="float: left; width: 33%;">
+				<input class="form-control" type="text3" id="text3" name="entry.28059318" placeholder="BYPASS or CBF" required>
+			</div>
+				<div style="float: left; width:50%;">
+						<select class="choice2" name="choice2" style="height:35px; width:100%;">
+      									<option>-선택안함-</option>
+      									<option value="FPS BYPASS">FPS BYPASS</option>
+      									<option value="CBF">CBF</option>
+    				</select>
+				<script>
+      		const choice2 = document.querySelector(".choice2");
+
+      		choice2.addEventListener("change", function (e) {
+        			const text3 = document.querySelector("#text3");
+        			text3.value = `${e.target.value}`;
+    			});
+    	</script>
+				</div>
+				</div>
+				<p/><br>
+			</div>
+     	<br><br>
+				<hr /><br>
+
+      <button type="submit" class="btn btn-primary btn-lg btn-block">등재 신청</button>
+	</form>
+  </div>
+				
+</article>

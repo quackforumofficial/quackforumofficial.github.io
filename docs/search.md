@@ -1,5 +1,5 @@
 ---
-title: Search
+title: 기록 등재 신청
 nav_order: 7
 ---
 
