@@ -38,7 +38,7 @@ RATED
 > <U>*</U> 표식은 FPS Bypass 사용을 의미합니다.   
 > <U>CBF</U>  표식은 Click Between Frames 모드 사용을 의미합니다.  
   
-[기록 등재 신청하기](https://just-the-docs.com){: .btn .btn-blue }
+[기록 등재 신청하기](https://gmdquackforum.site/submit.html){: .btn .btn-blue }
 
 | 유저         | 퍼센트             | 사용기기 및 FPS |
 |:-------------|:------------------|:---------------|
