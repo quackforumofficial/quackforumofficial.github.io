@@ -31,13 +31,13 @@ RATED
 ---
 
 ## 기록  
-
-### 현재 0개의 기록이 등재되어 있습니다.   
-### <U>43%</U> 이상의 기록이 등재 가능합니다.   
-
-### <U>*</U> 표식은 FPS Bypass 사용을 의미합니다.   
-### <U>CBF</U>  표식은 Click Between Frames 모드 사용을 의미합니다.
-
+  
+> 현재 0개의 기록이 등재되어 있습니다.   
+> <U>43%</U> 이상의 기록이 등재 가능합니다.   
+>   
+> <U>*</U> 표식은 FPS Bypass 사용을 의미합니다.   
+> <U>CBF</U>  표식은 Click Between Frames 모드 사용을 의미합니다.  
+  
 [기록 등재 신청하기](https://just-the-docs.com){: .btn .btn-blue }
 
 | 유저         | 퍼센트             | 사용기기 및 FPS |
