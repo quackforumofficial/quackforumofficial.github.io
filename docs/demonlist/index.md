@@ -1,9 +1,9 @@
 ---
-title: Navigation
-nav_order: 5
+title: Demonlist
+nav_order: 2
 ---
 
-# Navigation
+# 데몬리스트
 
 The default page layout supports various navigation features:
 
