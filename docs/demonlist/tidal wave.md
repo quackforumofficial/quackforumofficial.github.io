@@ -1,5 +1,5 @@
 ---
-title: Tidal Wave
+title: 1 Tidal Wave
 parent: Demonlist
 nav_order: 1
 ---
