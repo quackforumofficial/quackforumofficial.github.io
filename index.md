@@ -32,16 +32,13 @@ permalink: /
   </div>
 </div>
 <div class="card" style="width: 30%;">
-  <img src="https://gmdquackforum.site/1384060.png" style="width:80%; display: block; margin-left: auto; margin-right: auto;" class="card-img-top" alt="...">
+  <img src="https://gmdquackforum.site/kakaoopen.png" style="width:80%; display: block; margin-left: auto; margin-right: auto;" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">꿱 포럼 유튜브</h5>
-    <p class="card-text">GMD 꿱 포럼의 공식 유튜브 채널입니다!</p>
-    <button type="button" onclick="location.href='https://www.youtube.com/@%EA%BD%A5%ED%8F%AC%EB%9F%BC' " class="btn btn-dark">바로가기</button>
+    <h5 class="card-title">꿱 포럼 오픈채팅방</h5>
+    <p class="card-text">GMD 꿱 포럼 공식 오픈채팅방입니다!</p>
+    <button type="button" onclick="location.href='https://open.kakao.com/o/gHwAKpVg' " class="btn btn-dark">바로가기</button>
   </div>
 </div>
 </div>
 
 <br>
-<div class="d-grid gap-2 col-6 mx-auto">
-    <button  type="button" class="btn btn-dark">꿱 포럼 공식 디스코드</button>
-</div>
