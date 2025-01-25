@@ -1,11 +1,8 @@
 ---
-title: #1 Tidal Wave
+title: '#1 Tidal Wave'
 parent: Demonlist
 nav_order: 1
 ---
-
-
-
 # #1 Tidal Wave
 ## by OniLinkGD, Verified by Zoink
 {: .no_toc .text-delta }
