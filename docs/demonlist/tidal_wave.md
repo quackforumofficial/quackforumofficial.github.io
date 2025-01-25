@@ -10,7 +10,7 @@ nav_order: 1
 ## by OniLinkGD, Verified by Zoink
 {: .no_toc .text-delta }
 
-<iframe width="100%" src="https://www.youtube.com/embed/9fsZ014qB3s?si=HCM01YaJG62eKSxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="250px" src="https://www.youtube.com/embed/9fsZ014qB3s?si=HCM01YaJG62eKSxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Level Info
 > 레벨 ID : 86407629  
