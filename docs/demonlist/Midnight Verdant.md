@@ -6,12 +6,10 @@ nav_order: 19
 # #19 Midnight Verdant   
 ## by chobo111 , Verified by chobo111    
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/AvBB4ZpkXRc" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 108229163   
+> 레벨 ID : 108229163.0   
 > 레벨 업로드 일자 : NaT   
 > 레벨 길이 : nan   
 > 오브젝트 수 : n   

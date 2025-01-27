@@ -6,16 +6,14 @@ nav_order: 5
 # #5 Habon   
 ## by Mobile64, Verified by Mobile64   
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/PAEA0nSfMLg" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 97227131   
+> 레벨 ID : 97227131.0   
 > 레벨 업로드 일자 : 2023-12-10   
 > 레벨 길이 : 01:27   
 > 오브젝트 수 : 24000   
-> 노래 Newgrounds ID : nan   
+> 노래 Newgrounds ID : 949411.0   
 
 
 

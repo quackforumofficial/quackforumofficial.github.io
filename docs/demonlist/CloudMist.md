@@ -6,16 +6,14 @@ nav_order: 4
 # #4 CloudMist   
 ## by Mobile64, Verified by Mobile64   
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/ZIm8gFp507s" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 102575800   
+> 레벨 ID : 102575800.0   
 > 레벨 업로드 일자 : 2024-03-17   
 > 레벨 길이 : 01:12   
 > 오브젝트 수 : 15933   
-> 노래 Newgrounds ID : nan   
+> 노래 Newgrounds ID : 1101957.0   
 
 
 

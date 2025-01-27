@@ -6,16 +6,14 @@ nav_order: 2
 # #2 blekupen circles   
 ## by Blebae, Verified by Blebae   
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/XBt7Xq1Z7AU" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 112437156   
+> 레벨 ID : 112437156.0   
 > 레벨 업로드 일자 : 2024-11-24   
 > 레벨 길이 : 00:50   
 > 오브젝트 수 : 1262   
-> 노래 Newgrounds ID : nan   
+> 노래 Newgrounds ID : 360804.0   
 
 
 

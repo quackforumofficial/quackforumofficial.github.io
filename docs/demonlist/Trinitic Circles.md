@@ -6,16 +6,14 @@ nav_order: 12
 # #12 Trinitic Circles   
 ## by Cojong, Verified by Cojong   
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/EvJPOyc1GBA" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 97883413   
-> 레벨 업로드 일자 : NaT   
-> 레벨 길이 : nan   
-> 오브젝트 수 : n   
-> 노래 Newgrounds ID : nan   
+> 레벨 ID : 97883413.0   
+> 레벨 업로드 일자 : 2023-12-25   
+> 레벨 길이 : 00:54   
+> 오브젝트 수 : 11354   
+> 노래 Newgrounds ID : 93148.0   
 
 
 

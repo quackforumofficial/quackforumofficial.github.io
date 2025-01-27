@@ -6,16 +6,14 @@ nav_order: 6
 # #6 Hell Dimension   
 ## by Spoike, Verified by 태여이   
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/xOszUkXTTbQ" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 110267475   
+> 레벨 ID : 110267475.0   
 > 레벨 업로드 일자 : 2024-09-18   
 > 레벨 길이 : 00:25   
 > 오브젝트 수 : 7466   
-> 노래 Newgrounds ID : nan   
+> 노래 Newgrounds ID : 709578.0   
 
 
 

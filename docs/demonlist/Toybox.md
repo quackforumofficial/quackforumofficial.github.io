@@ -6,16 +6,14 @@ nav_order: 1
 # #1 Toybox   
 ## by InfoS, Verified by JMG3121   
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/DWCOTtI0Al4" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 109039996   
+> 레벨 ID : 109039996.0   
 > 레벨 업로드 일자 : 2024-08-14   
 > 레벨 길이 : 00:32   
 > 오브젝트 수 : 2458   
-> 노래 Newgrounds ID : nan   
+> 노래 Newgrounds ID : 1152826.0   
 
 
 

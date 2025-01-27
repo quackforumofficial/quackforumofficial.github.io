@@ -6,16 +6,14 @@ nav_order: 8
 # #8 Lucent   
 ## by inti98, Verified by inti98   
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/VId1t16gSD0" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 110826923   
-> 레벨 업로드 일자 : NaT   
-> 레벨 길이 : nan   
-> 오브젝트 수 : n   
-> 노래 Newgrounds ID : nan   
+> 레벨 ID : 110826923.0   
+> 레벨 업로드 일자 : 2024-10-05   
+> 레벨 길이 : 00:12   
+> 오브젝트 수 : 475   
+> 노래 Newgrounds ID : 664484.0   
 
 
 

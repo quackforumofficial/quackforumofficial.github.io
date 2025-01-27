@@ -6,12 +6,10 @@ nav_order: 18
 # #18 sh challenge   
 ## by DIA , Verified by DIA    
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/sMfAPo7KoTE" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 110265723   
+> 레벨 ID : 110265723.0   
 > 레벨 업로드 일자 : NaT   
 > 레벨 길이 : nan   
 > 오브젝트 수 : n   

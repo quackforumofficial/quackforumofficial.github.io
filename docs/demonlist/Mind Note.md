@@ -6,16 +6,14 @@ nav_order: 9
 # #9 Mind Note   
 ## by JMG3141, Verified by JMG3141   
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/lhKnsRrK0C8" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 106326896   
-> 레벨 업로드 일자 : NaT   
-> 레벨 길이 : nan   
-> 오브젝트 수 : n   
-> 노래 Newgrounds ID : nan   
+> 레벨 ID : 106326896.0   
+> 레벨 업로드 일자 : 2024-06-09   
+> 레벨 길이 : 00:10   
+> 오브젝트 수 : 783   
+> 노래 Newgrounds ID : 513539.0   
 
 
 

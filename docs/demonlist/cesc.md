@@ -6,16 +6,14 @@ nav_order: 11
 # #11 cesc   
 ## by 태여이, Verified by 태여이   
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/k-9_WIZX1Lc" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 109138810   
-> 레벨 업로드 일자 : NaT   
-> 레벨 길이 : nan   
-> 오브젝트 수 : n   
-> 노래 Newgrounds ID : nan   
+> 레벨 ID : 109138810.0   
+> 레벨 업로드 일자 : 2024-08-17   
+> 레벨 길이 : 00:17   
+> 오브젝트 수 : 1504   
+> 노래 Newgrounds ID : 620959.0   
 
 
 

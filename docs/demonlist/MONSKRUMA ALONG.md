@@ -6,12 +6,10 @@ nav_order: 17
 # #17 MONSKRUMA ALONG   
 ## by 태여이, Verified by 태여이   
 {: .no_toc .text-delta }   
-<p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/lbRNhiYyIk4" width="100%"></iframe>
-</p>
+none
 
 ### Level Info
-> 레벨 ID : 109287798   
+> 레벨 ID : 109287798.0   
 > 레벨 업로드 일자 : NaT   
 > 레벨 길이 : nan   
 > 오브젝트 수 : n   
