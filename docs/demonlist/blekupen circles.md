@@ -6,7 +6,9 @@ nav_order: 2
 # #2 blekupen circles   
 ## by Blebae, Verified by Blebae   
 {: .no_toc .text-delta }   
-none
+<p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/XBt7Xq1Z7AU" width="100%"></iframe>
+</p>
 
 ### Level Info
 > 레벨 ID : 112437156.0   
@@ -23,7 +25,7 @@ none
 ## 기록   
 
 > 현재 0개의 기록이 등재되어 있습니다.  
-> <U>43%</U> 이상의 기록이 등재 가능합니다. 
+> <U>100%</U> 이상의 기록이 등재 가능합니다. 
 >    
 > <U>*</U> 표식은 FPS Bypass 사용을 의미합니다.   
 > <U>CBF</U>  표식은 Click Between Frames 모드 사용을 의미합니다.   

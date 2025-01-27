@@ -6,7 +6,9 @@ nav_order: 22
 # #22 Critical meow   
 ## by iiimintiii,Kansha, Verified by Kansha   
 {: .no_toc .text-delta }   
-none
+<p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/goRcvaZYDRM" width="100%"></iframe>
+</p>
 
 ### Level Info
 > 레벨 ID : 113917110.0   
@@ -23,7 +25,7 @@ none
 ## 기록   
 
 > 현재 0개의 기록이 등재되어 있습니다.  
-> <U>43%</U> 이상의 기록이 등재 가능합니다. 
+> <U>100%</U> 이상의 기록이 등재 가능합니다. 
 >    
 > <U>*</U> 표식은 FPS Bypass 사용을 의미합니다.   
 > <U>CBF</U>  표식은 Click Between Frames 모드 사용을 의미합니다.   
