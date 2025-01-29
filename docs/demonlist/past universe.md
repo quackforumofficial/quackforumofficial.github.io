@@ -6,10 +6,12 @@ nav_order: 50
 # #50 past universe   
 ## by verylongername, Verified by verylongername   
 {: .no_toc .text-delta }   
-none
+<p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/g0mq8M8ziI8" width="100%"></iframe>
+</p>
 
 ### Level Info
-> 레벨 ID : 109451645.0   
+> 레벨 ID : 109451645   
 > 레벨 업로드 일자 : NaT   
 > 레벨 길이 : nan   
 > 오브젝트 수 : n   

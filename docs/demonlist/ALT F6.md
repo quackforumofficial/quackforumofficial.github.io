@@ -6,10 +6,12 @@ nav_order: 47
 # #47 ALT F6   
 ## by KRlaw,태여이, Verified by 태여이   
 {: .no_toc .text-delta }   
-none
+<p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/xLQJxSoXBco" width="100%"></iframe>
+</p>
 
 ### Level Info
-> 레벨 ID : 100189447.0   
+> 레벨 ID : 100189447   
 > 레벨 업로드 일자 : NaT   
 > 레벨 길이 : nan   
 > 오브젝트 수 : n   

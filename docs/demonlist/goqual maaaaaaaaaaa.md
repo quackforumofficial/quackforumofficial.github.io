@@ -6,10 +6,12 @@ nav_order: 60
 # #60 goqual maaaaaaaaaaa   
 ## by dhdydwns, Verified by dhdydwns   
 {: .no_toc .text-delta }   
-none
+<p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/JuxeL2lmI9A" width="100%"></iframe>
+</p>
 
 ### Level Info
-> 레벨 ID : 114096019.0   
+> 레벨 ID : 114096019   
 > 레벨 업로드 일자 : NaT   
 > 레벨 길이 : nan   
 > 오브젝트 수 : n   

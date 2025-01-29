@@ -6,10 +6,12 @@ nav_order: 55
 # #55 Boramae Dance   
 ## by 용러, Verified by 용러   
 {: .no_toc .text-delta }   
-none
+<p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/uUP0nbcH0wc" width="100%"></iframe>
+</p>
 
 ### Level Info
-> 레벨 ID : 106446873.0   
+> 레벨 ID : 106446873   
 > 레벨 업로드 일자 : NaT   
 > 레벨 길이 : nan   
 > 오브젝트 수 : n   

@@ -6,10 +6,12 @@ nav_order: 42
 # #42 UNNERFED Crazy Bear   
 ## by Quack Forum, Verified by Spoike   
 {: .no_toc .text-delta }   
-none
+<p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/GTOtRCIMlGg" width="100%"></iframe>
+</p>
 
 ### Level Info
-> 레벨 ID : 110347621.0   
+> 레벨 ID : 110347621   
 > 레벨 업로드 일자 : NaT   
 > 레벨 길이 : nan   
 > 오브젝트 수 : n   

@@ -6,10 +6,12 @@ nav_order: 52
 # #52 Fingerdash swag buff   
 ## by dhdydwns,Robtop, Verified by dhdydwns   
 {: .no_toc .text-delta }   
-none
+<p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" frameborder="0" height="250px" src="https://www.youtube.com/embed/b5_iUpU0n6Q" width="100%"></iframe>
+</p>
 
 ### Level Info
-> 레벨 ID : 114017508.0   
+> 레벨 ID : 114017508   
 > 레벨 업로드 일자 : NaT   
 > 레벨 길이 : nan   
 > 오브젝트 수 : n   
